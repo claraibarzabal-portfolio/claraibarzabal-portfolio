@@ -1,7 +1,9 @@
 # Clara Ibarzabal 👋
 
-Hello, I'm a Data Science and Machine Learning Specialist with a passion for transforming complex data into actionable insights. 
-I am also proficient in full-stack development, specializing in Python/Django, Java/Spring, and JavaScript/React.
+## Data Science | Machine Learning | Full-Stack Development
+
+Hello! I’m a Data Science and Machine Learning Specialist dedicated to transforming complex data into actionable insights. Alongside my expertise in data, I am a proficient full-stack developer, specializing in Python/Django, Java/Spring, and JavaScript/React.
+
 
 ## 🔍 Areas of Expertise
 
