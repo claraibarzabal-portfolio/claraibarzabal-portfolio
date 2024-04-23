@@ -4,6 +4,10 @@
 
 Hello! I’m a Data Science and Machine Learning Specialist dedicated to transforming complex data into actionable insights. Alongside my expertise in data, I am a proficient full-stack developer, specializing in Python/Django, Java/Spring, and JavaScript/React.
 
+## 📫 How to Reach Me
+
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/clara-ibarz%C3%A1bal-649310164/) or via [Email](mailto:clara.ibarzabal16@gmail.com).
+
 
 ## 🔍 Areas of Expertise
 
@@ -25,10 +29,6 @@ Hello! I’m a Data Science and Machine Learning Specialist dedicated to transfo
 ## 📚 Continuous Learning
 
 Currently advancing my skills in AI and Machine Learning through the "Mil Mujeres en IA" bootcamp and Microsoft's AI-102 training.
-
-## 📫 How to Reach Me
-
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/clara-ibarz%C3%A1bal-649310164/) or via [Email](mailto:clara.ibarzabal16@gmail.com).
 
 ## 🛠️ Development Skills
 
