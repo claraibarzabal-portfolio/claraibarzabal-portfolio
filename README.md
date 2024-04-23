@@ -23,6 +23,7 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/clara-iba
 - [Enhanced Hotel Cancellation Prediction](https://github.com/claraibarzabal-portfolio/enhanced-hotel-cancellation-prediction): Predictive modeling for hotel booking cancellations.
 - [Simple Linear Regression Analysis](https://github.com/claraibarzabal-portfolio/simple-linear-regression-analysis): Analysis of SAT and GPA scores to apply simple linear regression.
 - [Decision Tree Classification Iris](https://github.com/claraibarzabal-portfolio/decision_tree_classification_iris): Classification of iris species using decision tree models.
+- [ML & AI Studies Overview](https://github.com/claraibarzabal-portfolio/ml_ai): A curated repository showcasing my comprehensive understanding and studies in Machine Learning and Artificial Intelligence. This repository highlights theoretical concepts, methodologies, and a broad spectrum of applied knowledge in neural networks, foundational models, and more.
 
 > **Note**: This selection showcases various skills and applications in Machine Learning and Data Science. Additional projects are available upon request for interviews or collaborative opportunities.
 
@@ -38,7 +39,7 @@ Proficient in back-end and front-end development with extensive experience in:
 - **JavaScript/React**: Crafting interactive, user-friendly front-end designs.
 - **Databases**: Managing data with MySQL, PostgreSQL, and MongoDB.
 
-For a closer look at my development projects and coding samples, please refer to my [Development Portfolio](https://github.com/claraibarzabal-portfolio/development-portfolio).
+For a closer look at my development projects and coding samples, please refer to my [Development Portfolio](https://github.com/claraibarzabal-portfolio/development).
 
 ---
 
