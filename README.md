@@ -1,7 +1,7 @@
-### Hi there 👋
-# Welcome to My GitHub Profile! 🌐
+# Clara Ibarzabal 👋
 
-Hello, I'm Clara Ibarzabal! I'm a Data Science and Machine Learning Specialist with a passion for transforming complex data into actionable insights.
+Hello, I'm a Data Science and Machine Learning Specialist with a passion for transforming complex data into actionable insights. 
+I am proficient in full-stack development, specializing in Python/Django, Java/Spring, and JavaScript/React.
 
 ## 🔍 Areas of Expertise
 
