@@ -6,7 +6,7 @@ Hello! I’m a Data Science and Machine Learning Specialist dedicated to transfo
 
 ## 📫 How to Reach Me
 
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/clara-ibarz%C3%A1bal-649310164/) or via [Email](mailto:claraibarzabalr@gmail.com).
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/clara-ibarzabal/) or via [Email](mailto:claraibarzabalr@gmail.com) (claraibarzabalr@gmail.com).
 
 
 ## 🔍 Areas of Expertise
