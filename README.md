@@ -19,7 +19,7 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/clara-iba
 - **Data Analysis & Big Data**: Skilled in using analytical techniques and tools to manage and extract value from large datasets.
 
 ## 🚀 Highlighted Projects
-construction_materials_roi_analysis_cmm_audit
+- [Construction Materials ROI Analysis & CMM Audit Analytics](https://github.com/claraibarzabal-portfolio/construction_materials_roi_analysis_cmm_audit/blob/main/README.md)
 - [Enhanced Hotel Cancellation Prediction](https://github.com/claraibarzabal-portfolio/enhanced-hotel-cancellation-prediction): Predictive modeling for hotel booking cancellations.
 - [Simple Linear Regression Analysis](https://github.com/claraibarzabal-portfolio/simple-linear-regression-analysis): Analysis of SAT and GPA scores to apply simple linear regression.
 - [Decision Tree Classification Iris](https://github.com/claraibarzabal-portfolio/decision_tree_classification_iris): Classification of iris species using decision tree models.
